@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e2e-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/e2e-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nbastats.iml" filepath="$PROJECT_DIR$/nbastats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stats-aggregator-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stats-aggregator-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stats-logger-service.iml" filepath="$PROJECT_DIR$/.idea/modules/stats-logger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stats-logger-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stats-logger-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stats-processor-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stats-processor-service.main.iml" />
+    </modules>
+  </component>
+</project>
