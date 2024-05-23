@@ -84,3 +84,4 @@ The app consists of three microservices:
 8. **Config-Service**: Add an external configuration service.
 9. **Exception Handling**: Write robust exception handling mechanisms.
 10. **Code Cleanup**: Conduct a global cleanup, as some corners were cut to prioritize showcasing skills for this test task over comprehensive development.
+11. **Batch Savings**: Modify Stats-Processor-Service to save stats in small batches every 1-3 seconds for improved performance.
